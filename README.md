@@ -1,3 +1,3 @@
 # basicpythonscripts
 
-This are basic scripts which are helful for begineer to learn python.
+This are basic scripts which are helpful for begineer to learn python.
